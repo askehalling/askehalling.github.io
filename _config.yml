@@ -83,8 +83,8 @@ author:
   name             : "Aske Halling"
   avatar           : "profile.png"
   bio              : "Political Scientist at Aarhus University interested in citizen-state interactions and administrative burdens"
-  location         : "Denmark"
-  employer         : "https://pure.au.dk/portal/en/persons/aske-halling(4f8a7f8f-3840-4ebb-8f65-97f29431c38f).html"
+  location         : 
+  employer         :
   googlescholar    : "https://scholar.google.dk/citations?hl=da&user=AyPnunoAAAAJ"
   email            : aske@ps.au.dk 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
