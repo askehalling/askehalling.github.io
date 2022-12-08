@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Aske Hallings' webpage
+Hi! I am Aske Halling, a Political Scientist at Aarhus University. I am currently building this webpage, so please come back in a few weeks to explore my work.
 
 Getting started
 ======
